@@ -11,6 +11,7 @@
 
 <h3 align="left">📌 My Projects</h3>
 - 📱 **AgroLink**: Bridging farmers and consumers with an intuitive app experience.  
+- 🌾 **Kisan Seva**: Empowering the agricultural community with tech.  
 - 🛠️ **Stack-Based Calculator**: Simplifying arithmetic with a logical twist.  
 - 🔐 **Profile Features**: Building dynamic and personalized user experiences.
 
@@ -18,11 +19,21 @@ You can find all my work [here on GitHub](https://github.com/Shrey1029).
 
 ---
 
-<h3 align="left">💬 How to reach me</h3>
-📧 **Email**: shreysingh1029@gmail.com  
-💼 **LinkedIn**: [Shreyansh Singh](https://linkedin.com/in/shreyansh%20singh)  
-📸 **Instagram**: [@s_h_r_e_y_a_n_s_h_0](https://instagram.com/s_h_r_e_y_a_n_s_h_0)  
-💻 **LeetCode**: [Shreyansh_78](https://www.leetcode.com/shreyansh_78/)
+<h3 align="left">💬 Connect with me</h3>
+<p align="left">
+  <a href="mailto:shreysingh1029@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/shreyansh%20singh" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/shreyansh_78/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
+  </a>
+  <a href="https://instagram.com/s_h_r_e_y_a_n_s_h_0" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
