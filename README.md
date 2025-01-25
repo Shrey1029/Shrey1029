@@ -10,7 +10,7 @@
 ---
 
 <h3 align="left">📌 My Projects</h3>
-- 📱 **AgroLink**: Bridging farmers and consumers with an intuitive app experience.  
+<p align="left">- 📱 **AgroLink**: Bridging farmers and consumers with an intuitive app experience. /p> 
 - 🛠️ **Stack-Based Calculator**: Simplifying arithmetic with a logical twist.  
 - 🔐 **Profile Features**: Building dynamic and personalized user experiences.
 
