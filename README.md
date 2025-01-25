@@ -11,7 +11,6 @@
 
 <h3 align="left">📌 My Projects</h3>
 - 📱 **AgroLink**: Bridging farmers and consumers with an intuitive app experience.  
-- 🌾 **Kisan Seva**: Empowering the agricultural community with tech.  
 - 🛠️ **Stack-Based Calculator**: Simplifying arithmetic with a logical twist.  
 - 🔐 **Profile Features**: Building dynamic and personalized user experiences.
 
