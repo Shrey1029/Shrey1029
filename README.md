@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
-<h3 align="center">A passionate Android developer and tech enthusiast from India</h3>
+<h3 align="center"> Android developer and tech enthusiast from India</h3>
 
 ---
 
 - 🌱 I’m currently diving deeper into **Flutter**, **Dart**, and **Blockchain Security**.  
-- 💡 Passionate about crafting **user-friendly Android apps** and solving complex problems with **ML and DSA**.  
+- 💡 Motivated about crafting **user-friendly Android apps** and solving complex problems with **ML and DSA**.  
 - 🎯 Always exploring **modern development trends** to enhance my skills.  
 
 ---
