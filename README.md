@@ -77,8 +77,13 @@ You can find all my work [here on GitHub](https://github.com/Shrey1029).
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/business-intelligence" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Power_BI_Logo.svg" alt="bi" width="40" height="40"/> 
+  </a>
 </p>
-
 
 ---
 
