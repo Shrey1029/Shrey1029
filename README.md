@@ -23,7 +23,7 @@ You can find all my work [here on GitHub](https://github.com/Shrey1029).
   <a href="mailto:shreysingh1029@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/shreyansh%20singh" target="_blank">
+  <a href="www.linkedin.com/in/shreyansh-singh-a14482329" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.leetcode.com/shreyansh_78/" target="_blank">
