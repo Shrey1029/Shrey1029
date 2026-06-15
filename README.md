@@ -23,19 +23,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">AgroLink</h3>
-      <p>An intuitive Android app designed to bridge the gap between farmers and consumers, facilitating direct sales and communication. Built with a clean, user-friendly interface to empower local agriculture.</p>
-      <p><b>Tech Stack:</b> Kotlin, Firebase, MVVM, Android SDK</p>
+      <h3 align="center">AutoVoice AI</h3>
+      <p>An AI-powered voice agent built for automobile dealerships to handle real-time customer interactions and appointment workflows. Features full-duplex audio streaming, LLM-driven intent recognition, and secure backend communication.</p>
+      <p><b>Tech Stack:</b> Python, FastAPI, LLMs, Whisper, Deepgram, Supabase, WebSockets</p>
       <p align="center">
-        <a href="https://github.com/Shrey1029/AgroLink"><b>View on GitHub</b></a>
+        <a href="https://github.com/Shrey1029"><b>View on GitHub</b></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Image to PDF Converter</h3>
-      <p>A lightweight and efficient Android tool that seamlessly converts multiple images into a single, well-formatted PDF document. Features include image reordering, quality settings, and easy sharing.</p>
-      <p><b>Tech Stack:</b> Java, Android SDK, iText PDF Library</p>
+      <h3 align="center">BizPulse</h3>
+      <p>A backend API and data processing platform for managing transactional business data. Features CSV ingestion pipelines, request validation, and optimized database operations with a modular service architecture.</p>
+      <p><b>Tech Stack:</b> Node.js, Express.js, MongoDB</p>
       <p align="center">
-        <a href="https://github.com/Shrey1029/Image-to-PDF-Converter"><b>View on GitHub</b></a>
+        <a href="https://github.com/Shrey1029"><b>View on GitHub</b></a>
       </p>
     </td>
   </tr>
