@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shreyansh Singh 👋</h1>
-<h3 align="center">A passionate Android Developer from India, dedicated to building intuitive mobile applications that solve real-world problems.</h3>
+<h3 align="center">A passionate Mobile & Backend Developer from India, building intuitive Android apps and scalable Python backends that solve real-world problems.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrey1029&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Shrey1029" />
@@ -9,11 +9,12 @@
 
 ### 🚀 What I'm Currently Working On
 
-- 📱 Building modern, responsive Android apps with **Kotlin** and the **MVVM architecture**.
-- 🌐 Creating seamless cross-platform experiences with **Flutter** and **Dart**.
-- 🧠 Integrating **Machine Learning** models into Android apps to create smarter solutions.
-- 🔐 Exploring **Blockchain Security** principles and their application in mobile environments.
-- 🎯 Sharpening my problem-solving skills with a focus on **Data Structures & Algorithms**.
+- 📱 Building modern Android apps with **Kotlin** and the **MVVM architecture**.
+- 🐍 Developing scalable **Python backends** with frameworks like **FastAPI** and **Django**.
+- 🌐 Creating cross-platform mobile experiences with **Flutter** and **Dart**.
+- 🧠 Integrating **Machine Learning** models into apps and backend pipelines.
+- 🔐 Exploring **Blockchain Security** principles in mobile and server environments.
+- 🎯 Sharpening problem-solving skills through **Data Structures & Algorithms**.
 
 ---
 
@@ -48,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,firebase,python,sqlite" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,firebase,python,fastapi,sqlite,postgres" />
   </a>
 </p>
 
